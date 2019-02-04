@@ -1,0 +1,6 @@
+﻿  gethostbyname_win.c
+c:\users\goka\documents\visual studio 2017\projects\socket\gethostbyname_win\gethostbyname_win.c(19): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2219): note: 'gethostbyname' 선언을 참조하십시오.
+c:\users\goka\documents\visual studio 2017\projects\socket\gethostbyname_win\gethostbyname_win.c(30): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): note: 'inet_ntoa' 선언을 참조하십시오.
+  gethostbyname_win.vcxproj -> C:\Users\GOKA\Documents\Visual Studio 2017\Projects\socket\gethostbyname_win\Debug\gethostbyname_win.exe
