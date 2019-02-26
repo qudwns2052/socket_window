@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "news_sender_win", "news_sender_win.vcxproj", "{860527E2-B867-4732-A23E-0CCB126662B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860527E2-B867-4732-A23E-0CCB126662B9}.Debug|x64.ActiveCfg = Debug|x64
+		{860527E2-B867-4732-A23E-0CCB126662B9}.Debug|x64.Build.0 = Debug|x64
+		{860527E2-B867-4732-A23E-0CCB126662B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{860527E2-B867-4732-A23E-0CCB126662B9}.Debug|x86.Build.0 = Debug|Win32
+		{860527E2-B867-4732-A23E-0CCB126662B9}.Release|x64.ActiveCfg = Release|x64
+		{860527E2-B867-4732-A23E-0CCB126662B9}.Release|x64.Build.0 = Release|x64
+		{860527E2-B867-4732-A23E-0CCB126662B9}.Release|x86.ActiveCfg = Release|Win32
+		{860527E2-B867-4732-A23E-0CCB126662B9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D7FF7D-6070-4D14-B70E-FE259A7072AA}
+	EndGlobalSection
+EndGlobal
